@@ -13,7 +13,7 @@ export const projects = [
     subtitle: "React and CSS",
     description: "This Project displays  State Hook usage ",
     image: "https://i.ibb.co/jVHFv7c/Screenshot-2024-05-23-174701.png",
-    link: "https://reedbarger.com",
+    link: "https://pomodorotimer224.netlify.app",
   },
   {
     title: "Weather App",
